@@ -1,5 +1,5 @@
 const http = require('http')
-
+//zmiana
 const port = 80
 
 const server = http.createServer((request, response) => {
